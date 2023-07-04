@@ -1,6 +1,6 @@
 ![](https://github.com/yuenfu001/Knowledge-Transfer-and-Transition-of-Polio-Eradication-Project/blob/main/tansition%20project.png)
 # Knowledge-Transfer-and-Transition-of-Polio-Eradication-Project
-## Enhancing Polio Eradication Project Transition: Knowledge Transfer and Strengthening Implementation in Borno State Primary Health Care Development Agency
+## Enhancing Polio Eradication Project Transition: Knowledge Transfer and Strengthening Implementation in State Primary Health Care Development Agency
 
 > #### Project Summary:
 >>The project aimed to facilitate the smooth transition of a polio eradication project from the Solina Group to the Borno State Primary Health Care Development Agency. It focused on leveraging existing knowledge and resources within the agency to ensure continuity and efficiency in the implementation process. The project employed a Gantt chart to track implementation stages and deployed a knowledge assessment survey to bridge any knowledge gaps.
