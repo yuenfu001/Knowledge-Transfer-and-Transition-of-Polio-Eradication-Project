@@ -4,10 +4,10 @@
 >**Project Summary:**
 >>The project aimed to facilitate the smooth transition of a polio eradication project from the Solina Group to the Borno State Primary Health Care Development Agency. It focused on leveraging existing knowledge and resources within the agency to ensure continuity and efficiency in the implementation process. The project employed a Gantt chart to track implementation stages and deployed a knowledge assessment survey to bridge any knowledge gaps.
 >
->Project Overview:
+>**Project Overview:**
 >>The project involved transferring the polio eradication project, which utilized the Reaching Every Children and Reaching Inaccessible Children initiatives, from the Solina Group to the Borno State Primary Health Care Development Agency. The transition aimed to minimize resource wastage by avoiding redundant training and instead filling the knowledge gap among agency workers.
 >
->Highlights:
+> **Highlights:**
 >
 >> - Development of a comprehensive Gantt chart: A detailed Gantt chart was created to track different implementation stages, establish timelines, and monitor progress. This visual roadmap ensured transparency, coordination, and accountability throughout the project.
 >>
