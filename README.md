@@ -1,4 +1,4 @@
-![](https://drive.google.com/drive/u/0/my-drive)
+![](https://github.com/yuenfu001/Knowledge-Transfer-and-Transition-of-Polio-Eradication-Project/blob/main/tansition%20project.png)
 # Knowledge-Transfer-and-Transition-of-Polio-Eradication-Project
 ## Enhancing Polio Eradication Project Transition: Knowledge Transfer and Strengthening Implementation in Borno State Primary Health Care Development Agency
 
