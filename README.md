@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/1th2lVQPXl7Z2H8e6H6Az3k9HTVOtMoks)
+![](https://drive.google.com/drive/u/0/my-drive)
 # Knowledge-Transfer-and-Transition-of-Polio-Eradication-Project
 ## Enhancing Polio Eradication Project Transition: Knowledge Transfer and Strengthening Implementation in Borno State Primary Health Care Development Agency
 
