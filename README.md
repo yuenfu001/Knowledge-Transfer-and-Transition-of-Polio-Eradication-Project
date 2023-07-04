@@ -23,4 +23,4 @@
 >>
 >> - Strengthened implementation process: Through knowledge transfer and targeted interventions, the project aimed to enhance the implementation process of the polio eradication project. By empowering the healthcare agency with the necessary expertise, the project contributed to sustainable results and improved primary healthcare services in Borno State.
 
-_Overall, the project successfully facilitated the knowledge transfer and transition of the polio eradication project, resulting in a strengthened implementation process and improved healthcare services in the targeted communities of Borno State._
+> _Overall, the project successfully facilitated the knowledge transfer and transition of the polio eradication project, resulting in a strengthened implementation process and improved healthcare services in the targeted communities of Borno State._
